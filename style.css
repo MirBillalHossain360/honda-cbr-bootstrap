@@ -1,0 +1,132 @@
+body{
+    font-family: 'Oswald', sans-serif;
+
+
+
+
+
+    
+}
+#icon{
+    height: 100px;
+    width: 200px;
+}
+.btn{
+    font-size: 16px;
+    background-color: coral;
+    border-radius: 5px;
+    margin-right: 10px;
+    
+
+}
+#background-color{
+  background-color: #264653;
+  height: 70%;
+  width: 100%;
+ 
+  
+
+}
+.pcol{
+    color:#E0E0E0;
+}
+.bike{
+    color: coral;
+    margin-top: 50px;
+   
+}
+
+#feature{
+    width: 70%;
+    margin-left: 30px;
+
+}
+ 
+
+
+#feature-id{
+    width: 70%;
+    margin-left: 30px;
+
+}
+
+p img{
+    width: 70%;
+    margin-left: 30px;
+
+
+}
+
+p img {
+    filter: grayscale(100%);
+  }
+
+#djq{
+
+    margin-bottom: 100px;
+}
+#bikes{
+    margin-top: 0%;
+}
+
+.client{
+    color: coral;
+}
+.happy{
+    text-align: center;
+    margin-top: 60px;
+}
+.faq{
+
+    justify-content: center;
+    margin-left: 200px;
+}
+
+.news{
+    background-color: black;
+    margin-top: 50px;
+    color: white;
+}
+
+.news p{
+    margin-left:20px;
+}
+.news h5{
+    margin-left: 15px;
+}
+
+.fab{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+}
+.fas{
+    color: black;
+    
+}
+
+.ques{
+    color: coral;
+    margin-bottom: 200px;
+}
+
+.change{
+
+    margin-bottom: 80px;
+}
+
+.changed{
+    margin-top: 200px;
+}
+
+#users {
+    width: 97%;
+  }
+.name{
+    color:blue
+    
+}
+.person{
+    text-align: center;
+    border: 2px solid black;
+}
